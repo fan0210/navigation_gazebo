@@ -22,8 +22,8 @@ next, copy these two files to `/catkin_ws/src` and<br>
 
 * **gazebo**
 
-![image1 load error]()<br>
+![image1 load error](https://github.com/FanKaii/navigation_gazebo/blob/master/img/gazebo.png)<br>
 
 * **rviz**
 
-![image2 load error]()<br>
+![image2 load error](https://github.com/FanKaii/navigation_gazebo/blob/master/img/rviz.png)<br>
